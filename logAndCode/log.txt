@@ -1,0 +1,236 @@
+08-03 15:16:32.362 28022-28022/? D/ViewRootImpl: ViewPostImeInputStage processPointer 0
+08-03 15:16:32.452 28022-28022/? D/ViewRootImpl: ViewPostImeInputStage processPointer 1
+08-03 15:16:32.512 28022-28108/? I/Unity: StartRecordVideo
+     
+    (Filename: ./artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+08-03 15:16:32.552 28022-28108/? I/Unity: NatCorder: Initialized NatCorder 1.2 Android backend
+     
+    (Filename: ./artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+08-03 15:16:32.562 28022-28108/? D/Unity: NatCorder: Preparing video encoder with format: {height=2560, width=1440, bitrate=2592000, mime=video/avc, frame-rate=30, i-frame-interval=3, color-format=2130708361}
+08-03 15:16:32.562 28022-28108/? I/ACodec:  [] Now uninitialized
+08-03 15:16:32.572 28022-31011/? I/OMXClient: Using client-side OMX mux.
+08-03 15:16:32.612 28022-31011/? I/ACodec: [OMX.Exynos.AVC.Encoder] Now Loaded
+08-03 15:16:32.612 28022-31011/? W/ACodec: do not know color format 0x7f000011 = 2130706449
+    do not know color format 0x10 = 16
+    do not know color format 0x7f00a000 = 2130747392
+    do not know color format 0x7f000789 = 2130708361
+08-03 15:16:32.612 28022-31011/? I/ACodec: setupVideoEncoder succeeded
+08-03 15:16:32.612 28022-31011/? W/ACodec: do not know color format 0x7f000789 = 2130708361
+08-03 15:16:32.622 28022-31011/? I/ACodec: [OMX.Exynos.AVC.Encoder] Now Loaded->Idle
+08-03 15:16:32.652 28022-28108/? W/AudioCapabilities: Unsupported mime audio/mpeg-L1
+08-03 15:16:32.652 28022-31011/? I/ACodec: [OMX.Exynos.AVC.Encoder] Now Idle->Executing
+08-03 15:16:32.652 28022-28108/? W/AudioCapabilities: Unsupported mime audio/mpeg-L2
+08-03 15:16:32.652 28022-31011/? I/ACodec: [OMX.Exynos.AVC.Encoder] Now Executing
+08-03 15:16:32.662 28022-28108/? W/AudioCapabilities: Unsupported mime audio/x-ms-wma
+    Unsupported mime audio/x-ima
+08-03 15:16:32.662 28022-28108/? W/VideoCapabilities: Unrecognized profile/level 32768/2 for video/mp4v-es
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+08-03 15:16:32.672 28022-28108/? W/VideoCapabilities: Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unsupported mime video/wvc1
+08-03 15:16:32.682 28022-28108/? W/VideoCapabilities: Unsupported mime video/x-ms-wmv
+    Unrecognized profile/level 32768/2 for video/mp4v-es
+08-03 15:16:32.692 28022-28108/? W/VideoCapabilities: Unsupported mime video/wvc1
+    Unsupported mime video/x-ms-wmv
+    Unsupported mime video/x-ms-wmv7
+    Unsupported mime video/x-ms-wmv8
+    Unsupported mime video/mp43
+08-03 15:16:32.702 28022-28108/? W/VideoCapabilities: Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706433 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile 2130706434 for video/avc
+    Unrecognized profile/level 32768/2 for video/mp4v-es
+08-03 15:16:32.722 28022-28108/? I/VideoCapabilities: Unsupported profile 4 for video/mp4v-es
+08-03 15:16:32.742 28022-28108/? W/VideoCapabilities: Unsupported mime video/sorenson
+08-03 15:16:32.742 28022-28108/? D/Unity: NatCorder: Preparing audio encoder with format: {bitrate=64000, aac-profile=2, mime=audio/mp4a-latm, channel-count=2, channel-mask=12, sample-rate=24000}
+08-03 15:16:32.742 28022-28108/? I/ACodec:  [] Now uninitialized
+08-03 15:16:32.742 28022-31025/? I/OMXClient: Using client-side OMX mux.
+08-03 15:16:32.772 28022-31025/? I/EXYNOS_COMP_REGS: Loading the library: libOMX.Exynos.AAC.Decoder.so
+    Loading the library: libOMX.Exynos.AVC.Decoder.so
+    Loading the library: libOMX.Exynos.AVC.Encoder.so
+    Loading the library: libOMX.Exynos.FLAC.Decoder.so
+    Loading the library: libOMX.Exynos.HEVC.Decoder.so
+    Loading the library: libOMX.Exynos.HEVC.Encoder.so
+    Loading the library: libOMX.Exynos.MP3.Decoder.so
+    Loading the library: libOMX.Exynos.MPEG4.Decoder.so
+    Loading the library: libOMX.Exynos.MPEG4.Encoder.so
+    Loading the library: libOMX.Exynos.VP8.Decoder.so
+    Loading the library: libOMX.Exynos.VP8.Encoder.so
+    Loading the library: libOMX.Exynos.VP9.Decoder.so
+    Loading the library: libOMX.Exynos.WMV.Decoder.so
+08-03 15:16:32.782 28022-31025/? I/SEC_COMP_REGS: Loading the library: libsomx263dsw.so
+    Loading the library: libsomx264dsw.so
+    Loading the library: libsomxhevcdsw.so
+    Loading the library: libsomxmp4vdsw.so
+    Loading the library: libsomxmp43d.so
+    Loading the library: libsomxsr263d.so
+    Loading the library: libsomxvc1dsw.so
+    Loading the library: libsomxvp8d.so
+    Loading the library: libsomxwmv7d.so
+    Loading the library: libsomxwmv8d.so
+    Loading the library: libsomxamrd.so
+    Loading the library: libsomxadpcmd.so
+    Loading the library: libsomxflacd.so
+    Loading the library: libsomxaacd.so
+    Loading the library: libsomxmp3d.so
+    Loading the library: libsomxwmad.so
+    Loading the library: libsomxaace.so
+    Loading the library: libsomxnaace.so
+    Loading the library: libsomxvencsw.so
+08-03 15:16:32.802 28022-31025/? I/ACodec: [OMX.google.aac.encoder] Now Loaded
+    >>> getPortFormat 16, OMX.google.aac.encoder
+    [OMX.google.aac.encoder] Now Loaded->Idle
+    [OMX.google.aac.encoder] Now Idle->Executing
+    [OMX.google.aac.encoder] Now Executing
+08-03 15:16:32.852 28022-31020/? D/Unity: NatCorder: Recorder added track 0 with format: {what=1869968451, mime=audio/mp4a-latm, csd-0=java.nio.ByteArrayBuffer[position=0,limit=2,capacity=2], channel-count=2, sample-rate=24000}
+08-03 15:16:32.932 28022-31031/? D/libEGL: eglInitialize EGLDisplay = 0xc9cbd524
+08-03 15:16:32.932 28022-31031/? D/mali_winsys: new_window_surface returns 0x3000,  [1440x2560]-format:1
+08-03 15:16:32.932 28022-31031/? D/Unity: NatCam Rendering: Created ES3 GLRenderContext
+08-03 15:16:33.032 28022-31009/? D/Unity: NatCorder: Recorder added track 1 with format: {csd-1=java.nio.ByteArrayBuffer[position=0,limit=8,capacity=8], mime=video/avc, remained_resource=5160960, height=2560, width=1440, max_capacity=8847360, what=1869968451, csd-0=java.nio.ByteArrayBuffer[position=0,limit=14,capacity=14]}
+    NatCorder: Recorder started recording
+08-03 15:16:33.032 28022-31037/? I/MPEG4Writer: setStartTimestampUs: 0
+    Earliest track starting time: 0
+08-03 15:16:33.092 28022-31036/? I/MPEG4Writer: setStartTimestampUs: 240328
+08-03 15:16:36.022 28022-28108/? I/Unity: StopRecordVideo
+     
+    (Filename: ./artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+08-03 15:16:36.032 28022-31020/? D/Unity: NatCorder: Audio encoder detected EOS marker
+08-03 15:16:36.042 28022-31020/? D/Unity: NatCorder: Audio encoder stopping
+08-03 15:16:36.042 28022-31025/? I/ACodec: [OMX.google.aac.encoder] Now Executing->Idle
+    [OMX.google.aac.encoder] Now Idle->Loaded
+    [OMX.google.aac.encoder] Now Loaded
+     [OMX.google.aac.encoder] Now kWhatShutdownCompleted event : 6919
+08-03 15:16:36.042 28022-31025/? I/MediaCodec: Codec shutdown complete
+08-03 15:16:36.052 28022-31025/? I/ACodec:  [OMX.google.aac.encoder] Now uninitialized
+     [] Now kWhatShutdownCompleted event : 6919
+08-03 15:16:36.052 28022-31025/? I/MediaCodec: Codec shutdown complete
+08-03 15:16:36.122 28022-31009/? D/Unity: NatCorder: Video encoder detected EOS marker
+08-03 15:16:36.132 28022-31031/? D/libEGL: eglTerminate EGLDisplay = 0xc9cbd58c
+08-03 15:16:36.132 28022-31031/? D/Unity: NatCam Rendering: Released GLRenderContext
+08-03 15:16:36.142 28022-31009/? D/Unity: NatCorder: Video encoder stopping
+08-03 15:16:36.142 28022-31011/? I/ACodec: [OMX.Exynos.AVC.Encoder] Now Executing->Idle
+08-03 15:16:36.162 28022-31011/? I/ACodec: [OMX.Exynos.AVC.Encoder] Now Idle->Loaded
+08-03 15:16:36.162 28022-31011/? I/ACodec: [OMX.Exynos.AVC.Encoder] Now Loaded
+     [OMX.Exynos.AVC.Encoder] Now kWhatShutdownCompleted event : 6919
+08-03 15:16:36.162 28022-31010/? I/MediaCodec: Codec shutdown complete
+08-03 15:16:36.172 28022-31011/? I/ACodec:  [OMX.Exynos.AVC.Encoder] Now uninitialized
+     [] Now kWhatShutdownCompleted event : 6919
+08-03 15:16:36.172 28022-31010/? I/MediaCodec: Codec shutdown complete
+08-03 15:16:36.172 28022-31009/? D/MPEG4Writer: Audio track stopping
+    Audio track source stopping
+08-03 15:16:36.172 28022-31037/? I/MPEG4Writer: Received total/0-length (68/0) buffers and encoded 68 frames. - Video
+08-03 15:16:36.172 28022-31009/? D/MPEG4Writer: Audio track source stopped
+08-03 15:16:36.172 28022-31036/? I/MPEG4Writer: Received total/0-length (71/0) buffers and encoded 71 frames. - Audio
+    Audio track drift time: 0 us
+08-03 15:16:36.172 28022-31009/? D/MPEG4Writer: Audio track stopped
+    Video track stopping
+    Video track source stopping
+    Video track source stopped
+    Video track stopped
+    Duration from tracks range is [2914739, 3150884] us
+    Stopping writer thread
+08-03 15:16:36.172 28022-31035/? D/MPEG4Writer: 0 chunks are written in the last batch
+08-03 15:16:36.172 28022-31009/? D/MPEG4Writer: Writer thread stopped
+08-03 15:16:36.182 28022-31009/? I/MPEG4Writer: The mp4 file will not be streamable.
+08-03 15:16:36.182 28022-31009/? D/MPEG4Writer: Audio track stopping
+    Video track stopping
+08-03 15:16:36.182 28022-31009/? D/Unity: NatCorder: Released recorder
+08-03 15:16:45.772 28022-28031/? I/art: Background sticky concurrent mark sweep GC freed 109948(5MB) AllocSpace objects, 3(108KB) LOS objects, 49% free, 11MB/23MB, paused 845us total 148.718ms
+08-03 15:16:50.482 28022-28077/? I/XINGE: [TPush] getType uri:content://com.qihuankeji.DreamMaker.AUTH_XGPUSH/heart,match:30
+08-03 15:17:02.782 28022-32004/? I/System.out: (HTTPLog)-Static: isSBSettingEnabled false
+    (HTTPLog)-Static: isSBSettingEnabled false
+08-03 15:17:02.842 28022-28022/? V/ActivityThread: updateVisibility : ActivityRecord{389869b token=android.os.BinderProxy@74f8b0a {com.qihuankeji.DreamMaker/com.qihuankeji.DreamMaker.UnityPlayerActivity}} show : true
+08-03 15:17:43.212 28022-32222/? I/System.out: (HTTPLog)-Static: isSBSettingEnabled false
+    (HTTPLog)-Static: isSBSettingEnabled false
+08-03 15:21:50.552 28022-28246/? I/XINGE: [TPush] getType uri:content://com.qihuankeji.DreamMaker.AUTH_XGPUSH/heart,match:30
+08-03 15:22:43.682 28022-28031/? I/art: Background partial concurrent mark sweep GC freed 300948(9MB) AllocSpace objects, 17(724KB) LOS objects, 75% free, 5MB/21MB, paused 1.041ms total 132.095ms
+08-03 15:26:50.602 28022-28244/? I/XINGE: [TPush] getType uri:content://com.qihuankeji.DreamMaker.AUTH_XGPUSH/heart,match:30
